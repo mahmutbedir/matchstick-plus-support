@@ -1,0 +1,25 @@
+{
+  "name": "copybridge-support-page",
+  "version": "1.0.0",
+  "description": "CopyBridge mobil uygulaması için destek sayfası",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Build completed'"
+  },
+  "keywords": [
+    "support",
+    "copybridge",
+    "mobile-app",
+    "github-pages"
+  ],
+  "author": "CopyBridge Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/copybridge-support-page.git"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+} 
