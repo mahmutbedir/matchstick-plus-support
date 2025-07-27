@@ -119,6 +119,12 @@ document.addEventListener('DOMContentLoaded', function() {
             input.addEventListener('input', clearValidation);
         });
     }
+
+    // Set current year in footer
+    const currentYearElement = document.getElementById('current-year');
+    if (currentYearElement) {
+        currentYearElement.textContent = new Date().getFullYear();
+    }
 });
 
 // Form handling functions
