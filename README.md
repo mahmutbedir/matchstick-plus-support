@@ -1,6 +1,6 @@
-# CopyBridge Support Page
+# Matchstick Plus Support Page
 
-This repository contains the support page for the CopyBridge mobile application.
+This repository contains the support page for the Matchstick Plus mobile puzzle game.
 
 ## Features
 
@@ -24,9 +24,9 @@ The page will be published at `https://username.github.io/repository-name` withi
 
 ## Contact
 
-- Email: support@copybridge.app
-- Telegram: @CopyBridgeSupport
-- Web: www.copybridge.app
+- Email: support@matchstickplus.app
+- Telegram: @MatchstickPlusSupport
+- Web: www.matchstickplus.app
 - Contact Form: Available on the support page
 
 ## Form Setup
@@ -41,4 +41,4 @@ The form will send submissions directly to your email address.
 
 ## License
 
-© 2024 CopyBridge. All rights reserved. 
+© 2024 Matchstick Plus. All rights reserved. 

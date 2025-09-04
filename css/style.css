@@ -20,7 +20,7 @@ body {
 .header {
     text-align: center;
     padding: 40px 0;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
     color: white;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -45,7 +45,7 @@ body {
 }
 
 .support-section h2 {
-    color: #667eea;
+    color: #ff6b35;
     margin-bottom: 20px;
     font-size: 1.5em;
 }
@@ -61,14 +61,14 @@ body {
 }
 
 .contact-method:hover {
-    border-color: #667eea;
-    box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
+    border-color: #ff6b35;
+    box-shadow: 0 2px 8px rgba(255, 107, 53, 0.2);
 }
 
 .contact-icon {
     width: 40px;
     height: 40px;
-    background: #667eea;
+    background: #ff6b35;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -169,8 +169,8 @@ body {
     .form-group input:focus,
     .form-group textarea:focus {
         outline: none;
-        border-color: #667eea;
-        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        border-color: #ff6b35;
+        box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.1);
     }
 
     .form-group textarea {
@@ -179,7 +179,7 @@ body {
     }
 
     .submit-btn {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
         color: white;
         border: none;
         padding: 14px 28px;
@@ -193,7 +193,7 @@ body {
 
     .submit-btn:hover {
         transform: translateY(-2px);
-        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        box-shadow: 0 4px 12px rgba(255, 107, 53, 0.3);
     }
 
     .submit-btn:active {

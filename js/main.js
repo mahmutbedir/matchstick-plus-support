@@ -1,4 +1,4 @@
-// CopyBridge Support Page JavaScript
+// Matchstick Plus Support Page JavaScript
 
 document.addEventListener('DOMContentLoaded', function() {
     // Smooth scroll for anchor links
